@@ -1,0 +1,5 @@
+## Mac Related ##
+.DS_Store
+
+## ipython ##
+.ipynb_checkpoints
